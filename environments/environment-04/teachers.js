@@ -1,18 +1,18 @@
-const teachers = [
+export const teachers = [
     {
         name: "Jane Smith",
         email: "jane.smith@email.com"
     },
     {
-        name: "Bob Johnson",
-        email: "bob.johnson@email.com"
+        name: "Adam Johnson",
+        email: "lol.johnson@email.com"
     },
     {
         name: "Mark Lee",
         email: "mark.lee@email.com"
     },
     {
-        name: "Julia Kim",
-        email: "julia.kim@email.com"
+        name: "Abu Kim",
+        email: "q.kim@email.com"
     }
 ];
