@@ -14,6 +14,9 @@ function start() {
   document.querySelector("#create-form").addEventListener("submit", createNewProduct);
 }
 
+
+
+
 function showProducts(products) {
     document.querySelector("#list-container").innerHTML="";
   for (const product of products) {
